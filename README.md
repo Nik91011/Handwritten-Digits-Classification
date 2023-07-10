@@ -1,1 +1,1 @@
-# Handwritten-Digits-Classification
+Explored the exciting world of neural networks and their hyperparameter optimization and delved into the application of deep neural networks and convolutional neural networks for tasks like facial recognition using the CelebA dataset. Through rigorous experimentation, I compared the performance of these networks in terms of accuracy, training time, and testing data.
